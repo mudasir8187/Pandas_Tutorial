@@ -1,0 +1,14 @@
+Step 1: Raw data/Data extraction
+Step 2: Data cleaning 
+Step 3: Data filtration 
+Step 4: Data removal/ ignoring 
+Step 5: Data organisation 
+Step 6: Data joining 
+Step 7: Data splitting 
+Step 8: Finding missing data 
+Step 9: Duplicate removal 
+Step 10: Getting readable data 
+Step 11: Data analysis 
+Step 12: Plotting graph and statistics 
+Step 13: Data reporting 
+Step 14: Data presentation
